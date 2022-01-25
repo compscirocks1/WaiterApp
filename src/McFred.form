@@ -129,7 +129,7 @@
             </constraints>
             <properties>
               <font name="Times New Roman" size="24"/>
-              <text value="Order"/>
+              <text value=""/>
             </properties>
           </component>
         </children>
